@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Eduardo Mioto's github stats](https://github-readme-stats.vercel.app/api?username=eduardomioto)](https://github.com/anuraghazra/github-readme-stats)
+[![Eduardo Mioto's github stats](https://github-readme-stats.vercel.app/api?username=eduardomioto&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eduardomioto/eduardomioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
