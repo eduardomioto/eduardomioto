@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Eduardo Mioto's github stats](https://github-readme-stats.vercel.app/api?username=eduardomioto&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Eduardo Mioto's github stats](https://github-readme-stats.vercel.app/api?username=eduardomioto&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomioto&langs_count=10&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **eduardomioto/eduardomioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
