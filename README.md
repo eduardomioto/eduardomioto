@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 📫 Contact: mioto@mioto.com.br
 - 🔭 Background: [eduardomioto.com](eduardomioto.com)
 - 💬 Blog: [eduardomiotoblog.wordpress.com](eduardomiotoblog.wordpress.com)
+- :earth_americas: Linkedin: [link](https://www.linkedin.com/in/eduardomioto/)
+- :earth_americas: Stackoverflow: [link](http://stackoverflow.com/users/4660615/eduardo-mioto)
+- :earth_americas: Lattes: [link](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8391887Y9)
