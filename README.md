@@ -5,7 +5,6 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomioto&langs_count=10&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-
 **eduardomioto/eduardomioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 Contact: mioto@mioto.com.br
+- 🔭 Background: [eduardomioto.com](eduardomioto.com)
+- 💬 Blog: [eduardomiotoblog.wordpress.com](eduardomiotoblog.wordpress.com)
