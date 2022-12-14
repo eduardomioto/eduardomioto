@@ -2,7 +2,7 @@
 
 
 [![Eduardo Mioto's github stats](https://github-readme-stats.vercel.app/api?username=eduardomioto&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardomioto&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Be in touch
