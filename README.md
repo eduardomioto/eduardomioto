@@ -55,6 +55,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp;
 </div>
 
+### Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Handling Complexity with Professor Richard Jolly | London Business School](https://eduardomiotoblog.wordpress.com/2022/12/29/handling-complexity-with-professor-richard-jolly-london-business-school/)
 - [GraphQL: The Documentary](https://eduardomiotoblog.wordpress.com/2022/12/12/graphql-the-documentary/)
