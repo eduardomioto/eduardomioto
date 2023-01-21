@@ -1,13 +1,15 @@
 ### Hi there 👋
 
+
 Hi, I'm Eduardo Mioto, Engineering Manager for BeatStars. I'm from Rio de Janeiro, :brazil: and currently living in South. In previous decades I have been working with software architecture, software engineering and applied research, with 15+ years working with software engineering and 4+ as Leader.
+
 
 ### My Leadership Style
 
 https://github.com/eduardomioto/effective-engineering
 
 ### Stats
-
+ 
 [![Eduardo Mioto's github stats](https://github-readme-stats.vercel.app/api?username=eduardomioto&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardomioto&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
@@ -88,6 +90,10 @@ https://github.com/eduardomioto/effective-engineering
 <a href="https://www.researchgate.net/profile/Eduardo-Santos-74"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://orcid.org/0000-0002-5998-8602"><img src="https://img.shields.io/badge/-ORCID-A5CD39?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8391887Y9"><img src="https://img.shields.io/badge/-Lattes-005D9D?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/3407254/213869236-36136a62-0e25-4603-ae84-32c75e70b855.png" title="WhatsApp" alt="WhatsApp" width="150" height="150"/>&nbsp;
+</div>
 
 
 </p>
