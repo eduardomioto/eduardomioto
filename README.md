@@ -56,6 +56,16 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling Complexity with Professor Richard Jolly | London Business School](https://eduardomiotoblog.wordpress.com/2022/12/29/handling-complexity-with-professor-richard-jolly-london-business-school/)
+- [GraphQL: The Documentary](https://eduardomiotoblog.wordpress.com/2022/12/12/graphql-the-documentary/)
+- [How to enter ‘flow state’ on command | Steven Kotler](https://eduardomiotoblog.wordpress.com/2022/12/12/how-to-enter-flow-state-on-command-steven-kotler/)
+- [The Effective Engineer | Edmond Lau | Talks at Google](https://eduardomiotoblog.wordpress.com/2022/12/12/the-effective-engineer-edmond-lau-talks-at-google/)
+- [People Management – Red Bead Experiment with Dr. W. Edwards Deming](https://eduardomiotoblog.wordpress.com/2022/06/03/people-management-red-bead-experiment-with-dr-w-edwards-deming/)
+- [Open Knowledge Org &lpar;Github&rpar;](https://eduardomiotoblog.wordpress.com/2021/04/28/open-knowledge-org-github/)
+- [Management Innovation](https://eduardomiotoblog.wordpress.com/2021/04/17/what-is-innovation-management-by-dr-julian-birkinshaw/)
+- [[REF] Creating Ownership – Nuclear Submarine deploy in 6 months](https://eduardomiotoblog.wordpress.com/2020/08/25/ref-creating-ownership-nuclear-submarine-deploy-in-6-months/)
+- [Remote Work](https://eduardomiotoblog.wordpress.com/2020/08/24/remote-work/)
+- [[REF] MIT Introduction to Deep Learning](https://eduardomiotoblog.wordpress.com/2020/07/19/ref-mit-introduction-to-deep-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Be in touch
