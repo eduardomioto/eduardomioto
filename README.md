@@ -55,6 +55,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp;
 </div>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Be in touch
 
 <p align="center">
