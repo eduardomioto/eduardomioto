@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<p align="left">
-  <img align="center" src="/metrics.terminal.svg" alt="Metrics" width="400">
-</p>
+<div>
+  <div><img src="/metrics.terminal.svg" alt="Metrics" width="400"></div>
+  <div> Hi, I'm Eduardo Mioto, Engineering Manager for BeatStars. I'm from Rio de Janeiro, and currently living in South of Brazil. In previous 15+ years I have been working with software architecture, software engineering and applied research, and 4+ as Leader of great people. </div>
+</div>
 
-Hi, I'm Eduardo Mioto, Engineering Manager for BeatStars. I'm from Rio de Janeiro, and currently living in South of Brazil. In previous 15+ years I have been working with software architecture, software engineering and applied research, and 4+ as Leader of great people.
+
 
 ### My Leadership Style
 
