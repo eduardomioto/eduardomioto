@@ -14,6 +14,9 @@ https://github.com/eduardomioto/effective-engineering
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardomioto&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
+### Metrics
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 ### Languages and Tooling
 
 <div>
@@ -78,9 +81,6 @@ https://github.com/eduardomioto/effective-engineering
 - [Remote Work](https://eduardomiotoblog.wordpress.com/2020/08/24/remote-work/)
 - [[REF] MIT Introduction to Deep Learning](https://eduardomiotoblog.wordpress.com/2020/07/19/ref-mit-introduction-to-deep-learning/)
 <!-- BLOG-POST-LIST:END -->
-
-
-![github-metrics](https://github.com/eduardomioto/eduardomioto/blob/master/github-metrics.svg)
 
 ### Be in touch
 
