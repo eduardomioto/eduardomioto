@@ -9,18 +9,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: 🦑 Achievements
-        if: ${{ success() || failure() }}
+      - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: achievements.svg
+          filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
+          plugin_achievements_only: >-
+              polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+              scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
-          plugin_fortune: yes
+          plugin_achievements_threshold: X
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
