@@ -69,6 +69,10 @@ https://github.com/eduardomioto/effective-engineering
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp;
 </div>
 
+### Portfolio
+
+[<img src="/site3.gif">](http://eduardomioto.com/)
+
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -83,6 +87,8 @@ https://github.com/eduardomioto/effective-engineering
 - [Remote Work](https://eduardomiotoblog.wordpress.com/2020/08/24/remote-work/)
 - [[REF] MIT Introduction to Deep Learning](https://eduardomiotoblog.wordpress.com/2020/07/19/ref-mit-introduction-to-deep-learning/)
 <!-- BLOG-POST-LIST:END -->
+
+
 
 ### Be in touch
 
