@@ -14,6 +14,9 @@ https://github.com/eduardomioto/effective-engineering
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardomioto&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
+### Metrics
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 ### Languages and Tooling
 
 <div>
