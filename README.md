@@ -79,6 +79,9 @@ https://github.com/eduardomioto/effective-engineering
 - [[REF] MIT Introduction to Deep Learning](https://eduardomiotoblog.wordpress.com/2020/07/19/ref-mit-introduction-to-deep-learning/)
 <!-- BLOG-POST-LIST:END -->
 
+
+![github-metrics](https://github.com/eduardomioto/eduardomioto/blob/master/github-metrics.svg)
+
 ### Be in touch
 
 <p align="center">
