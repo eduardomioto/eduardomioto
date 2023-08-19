@@ -12,12 +12,10 @@
 https://github.com/eduardomioto/effective-engineering
 
 ### Stats
+
+![Metrics](https://metrics.lecoq.io/eduardomioto?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
  
-[![Eduardo Mioto's github stats](https://github-readme-stats.vercel.app/api?username=eduardomioto&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardomioto&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
-<img align="center" src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="400">
 
 ### Languages and Tooling
 
