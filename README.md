@@ -11,6 +11,10 @@
 
 https://github.com/eduardomioto/effective-engineering
 
+### Engineering Tips
+
+https://github.com/eduardomioto/engineering-tips
+
 ### Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardomioto&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
