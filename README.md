@@ -73,7 +73,7 @@ https://github.com/eduardomioto/engineering-tips
 
 ### Portfolio
 
-[<img src="/site3.gif">](http://eduardomioto.com/)
+[<img src="/site4.gif">](http://eduardomioto.com/)
 
 ### Latest Blog Posts
 
