@@ -1,0 +1,39 @@
+name: Metrics Terminal
+on:
+  workflow_dispatch:
+  # Optional: Add schedule to run automatically
+  # schedule:
+  #   - cron: '0 0 * * 0'  # Weekly on Sunday
+
+jobs:
+  metrics-terminal:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: read
+      metadata: read
+    steps:
+    
+    - name: Generate Metrics
+      uses: lowlighter/metrics@v3.34  # Use specific version instead of @latest
+      with:
+        template: terminal
+        filename: metrics.terminal.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        
+        # Minimal base for faster execution
+        base: header
+        
+        # Optimize performance settings
+        optimize: svg
+        experimental_features: --optimize-svg
+        
+        # Reduce API calls by limiting data
+        repositories_forks: false
+        repositories_affiliations: owner
+        
+        # Skip heavy operations
+        commits_authoring: false
+        
+        # Cache settings (if supported)
+        setup_community_templates: false
