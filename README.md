@@ -101,7 +101,7 @@ https://github.com/eduardomioto/engineering-tips
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8391887Y9"><img src="https://img.shields.io/badge/-Lattes-005D9D?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/3407254/213869236-36136a62-0e25-4603-ae84-32c75e70b855.png" title="WhatsApp" alt="WhatsApp" width="150" height="150"/>&nbsp;
+ <img width="300" height="300" alt="Portfolio2" src="https://github.com/user-attachments/assets/5bb8a55c-5ead-4a2a-a145-b51d6071fc00" />
 </div>
 
 </p>
