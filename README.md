@@ -5,8 +5,6 @@
   <div> Hi, I'm Eduardo Mioto, Director of R&D for Cyncly. I'm from Rio de Janeiro, and currently living in South of Brazil. In previous 15+ years I have been working with software architecture, software engineering and applied research, and 5+ as Leader of great people. </div>
 </div>
 
-
-
 ### My Leadership Style
 
 https://github.com/eduardomioto/effective-engineering
@@ -90,8 +88,6 @@ https://github.com/eduardomioto/engineering-tips
 - [[REF] MIT Introduction to Deep Learning](https://eduardomiotoblog.wordpress.com/2020/07/19/ref-mit-introduction-to-deep-learning/)
 <!-- BLOG-POST-LIST:END -->
 
-
-
 ### Be in touch
 
 <p align="center">
@@ -108,5 +104,11 @@ https://github.com/eduardomioto/engineering-tips
   <img src="https://user-images.githubusercontent.com/3407254/213869236-36136a62-0e25-4603-ae84-32c75e70b855.png" title="WhatsApp" alt="WhatsApp" width="150" height="150"/>&nbsp;
 </div>
 
-
 </p>
+
+### Interesting Links
+- [QR Smart Code](https://www.qrsmartcode.com/)
+- [Amazing Food](http://amazingfood.ai/)
+- [Canasvieiras.floripa.br](http://canasvieiras.floripa.br/)
+
+
