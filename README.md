@@ -108,7 +108,7 @@ https://github.com/eduardomioto/engineering-tips
 
 ### Interesting Links
 - [QR Smart Code](https://www.qrsmartcode.com/)
-- [Amazing Food](http://amazingfood.ai/)
-- [Canasvieiras.floripa.br](http://canasvieiras.floripa.br/)
+- [Amazing Food](https://www.amazingfood.ai/)
+- [Canasvieiras.floripa.br](https://canasvieiras.floripa.br/)
 
 
